@@ -9,11 +9,11 @@ For Windows user,
 
 1. Install Matlab MCR [R2021a (9.10))](https://www.mathworks.com/products/compiler/mcr/index.html)
 
-2. Install "Dog_hip_analysis.exe"
+2. Install "Dog_Heart_Analysis.exe"
 
 
 For Mac user,
-1. Unzip Dog_hip_analysis.zip
+1. Unzip Dog_Heart_Analysis.zip
 2. Install R2022a (9.12) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Mac version). 
 3. Install Dog_hip_analysis.app.
 
