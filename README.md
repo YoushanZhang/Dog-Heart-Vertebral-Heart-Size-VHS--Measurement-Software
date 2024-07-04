@@ -54,6 +54,7 @@ Or in bibtex style:
 
 
 "Dog Hip Norberg Angle Measurement Software.pdf" is a short explanation of the software functions.
+Another useful link about VHS is [here](https://cardiaceducationgroup.org/wp-content/uploads/2015/10/TB_WChurch-8.11.pdf).
 
 ### Steps
 1. Open a dog X-ray image;
