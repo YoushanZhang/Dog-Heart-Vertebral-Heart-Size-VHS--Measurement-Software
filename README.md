@@ -2,7 +2,7 @@
 
 This software aims to analyze the Vertebral Heart Size (VHS) of dog heart X-ray images and is developed based on MATLAB.
 
-Please unzip the Demo.zip and install the "Dog_hip_analysis" in the "Dog_hip_software" folder.
+
 
 To run the software, 
 For Windows user, 
@@ -27,10 +27,10 @@ For Mac user,
 
 ### Reference
 
-If you find it is helpful, please cite it as:
+If you find it helpful, please cite it as:
 
 `
-Zhang, Youshan. 2022. "Dog Hip Norberg Angle Measurement Software".
+Li, Jialu, and Youshan Zhang. "Regressive vision transformer for dog cardiomegaly assessment." Scientific Reports 14, no. 1 (2024): 1539.
 `
 
 
@@ -38,10 +38,17 @@ Or in bibtex style:
 
 ```
 
-@Article{zhang2022stall,
-AUTHOR = {Zhang, Youshan},
-TITLE = {Dog Hip Norberg Angle Measurement Software},
-year={2022}
+@article{li2024regressive,
+  title={Regressive vision transformer for dog cardiomegaly assessment},
+  author={Li, Jialu and Zhang, Youshan},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={1539},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
 }
+
+```
 
 
